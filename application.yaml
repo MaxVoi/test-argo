@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/MaxVoi/test-argo.git
+    repoURL: https://github.com/argoproj/argocd-example-apps
     targetRevision: HEAD
     path: dev
   destination: 
